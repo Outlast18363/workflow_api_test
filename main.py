@@ -4,7 +4,7 @@ import json
 url = 'https://api.dify.ai/v1'
 
 headers = {
-'Authorization': 'Bearer app-wybS2n6y2Oi4G8yz8bmlRPCH',
+'Authorization': 'Bearer apikey',
 'Content-Type': 'application/json',
 }
 
